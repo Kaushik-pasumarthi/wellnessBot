@@ -1,0 +1,23 @@
+2025-09-07 23:39:30,359 - __main__ - INFO - Loaded 6 intents from knowledge base
+2025-09-07 23:39:30,361 - __main__ - INFO - Enhanced Dialogue Manager initialized successfully
+2025-09-07 23:39:30,361 - __main__ - INFO - New session started: demo-session
+2025-09-07 23:39:39,914 - __main__ - INFO - Session ended: demo-session, Duration: 0:00:09.553714
+2025-09-07 23:49:46,717 - dialogue_manager - INFO - Loaded 4 intents from knowledge base
+2025-09-07 23:49:46,718 - dialogue_manager - INFO - Enhanced Dialogue Manager initialized successfully
+2025-09-07 23:49:46,720 - dialogue_manager - INFO - New session started: user_1757269186
+2025-09-07 23:50:02,955 - dialogue_manager - INFO - Session user_1757269186: Intent=greeting, Confidence=0.99, State=greeting
+2025-09-07 23:50:10,335 - dialogue_manager - INFO - Session user_1757269186: Intent=greeting, Confidence=0.99, State=greeting
+2025-09-07 23:50:17,590 - dialogue_manager - INFO - Session user_1757269186: Intent=fallback, Confidence=0.97, State=greeting
+2025-09-07 23:50:39,270 - dialogue_manager - INFO - Session user_1757269186: Intent=ask_about_symptom, Confidence=0.99, State=symptom_assessment
+2025-09-07 23:50:54,801 - dialogue_manager - INFO - Session user_1757269186: Intent=ask_about_symptom, Confidence=1.00, State=gathering_details
+2025-09-07 23:51:01,254 - dialogue_manager - INFO - Session user_1757269186: Intent=ask_about_symptom, Confidence=0.99, State=providing_advice
+2025-09-07 23:51:13,661 - dialogue_manager - ERROR - Error handling message in session user_1757269186: '>' not supported between instances of 'UrgencyLevel' and 'UrgencyLevel'
+2025-09-07 23:51:24,195 - dialogue_manager - ERROR - Error handling message in session user_1757269186: '>' not supported between instances of 'UrgencyLevel' and 'UrgencyLevel'
+2025-09-07 23:51:37,813 - dialogue_manager - ERROR - Error handling message in session user_1757269186: '>' not supported between instances of 'UrgencyLevel' and 'UrgencyLevel'
+2025-09-08 18:33:24,541 - dialogue_manager - INFO - Loaded 4 intents from knowledge base
+2025-09-08 18:33:24,556 - dialogue_manager - INFO - Enhanced Dialogue Manager initialized successfully
+2025-09-08 18:33:24,562 - dialogue_manager - INFO - New session started: user_1757336604
+2025-09-08 18:34:20,102 - dialogue_manager - INFO - Session user_1757336604: Intent=goodbye, Confidence=0.98, State=initial
+2025-09-08 18:34:26,976 - dialogue_manager - INFO - Session ended: user_1757336604, Duration: 0:01:02.412766
+2025-09-08 18:34:26,977 - dialogue_manager - INFO - New session started: user_1757336666
+2025-09-08 18:37:57,181 - dialogue_manager - INFO - Session user_1757336666: Intent=greeting, Confidence=0.98, State=greeting
