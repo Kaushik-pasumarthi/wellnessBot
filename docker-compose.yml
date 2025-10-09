@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  # Backend API Service
+  backend:
+    build: .
+    container_name: wellness_backend
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./admin.db:/app/admin.db
+      - ./users.db:/app/users.db
+    command: python backend.py
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Frontend Service
+  frontend:
+    build: .
+    container_name: wellness_frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - backend
+    command: streamlit run frontend.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+
+  # Admin Dashboard Service
+  admin:
+    build: .
+    container_name: wellness_admin
+    ports:
+      - "8502:8502"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./admin.db:/app/admin.db
+      - ./users.db:/app/users.db
+    depends_on:
+      - backend
+    command: streamlit run admin_dashboard.py --server.port=8502 --server.address=0.0.0.0
+    restart: unless-stopped
+
+networks:
+  default:
+    name: wellness_network

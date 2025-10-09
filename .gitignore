@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Database files (contains user data - don't push to public repos)
+*.db
+admin.db
+users.db
+
+# Logs
+*.log
+training.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Test files (optional)
+test_*.py
+check_*.py
+simple_test.py
+demo_*.py
+analyze_*.py
+csv_integration_summary.py
+
+# Documentation (keep only essential ones)
+*_old.md
+CLEANUP_AND_DEPLOYMENT_GUIDE.md
+DATA_ACCURACY_UPDATE.md
+CSV_DATA_INTEGRATION_FIXED.md
+
+# Batch files (Windows specific - users can create their own)
+*.bat
+
+# Environment variables
+.env
+secrets.toml

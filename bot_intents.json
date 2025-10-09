@@ -1,0 +1,142 @@
+{
+  "intents": [
+    {
+      "tag": "greet",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "hey there",
+        "hi bot",
+        "yo",
+        "what's up",
+        "how are you"
+      ],
+      "responses": [
+        "Hello! How are you feeling today?",
+        "Hi there! Tell me if you have any symptoms.",
+        "Hey! I can help with basic health info. What's going on?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "see you",
+        "goodbye",
+        "take care",
+        "thanks, bye",
+        "talk to you later",
+        "catch you later"
+      ],
+      "responses": [
+        "Goodbye! Stay healthy and safe.",
+        "Take care! If symptoms persist, consult a doctor.",
+        "Bye! Reach out again if you need help."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "appreciate it",
+        "that helps",
+        "thanks a lot",
+        "thank you so much"
+      ],
+      "responses": [
+        "You're welcome! 😊",
+        "Glad I could help!",
+        "Anytime. Your well-being matters!"
+      ]
+    },
+    {
+      "tag": "report_symptom",
+      "patterns": [
+        "I have a headache",
+        "my head hurts",
+        "I feel feverish",
+        "I have a sore throat",
+        "I'm coughing",
+        "I have stomach pain",
+        "I feel dizzy",
+        "I have chest pain",
+        "I'm not feeling well",
+        "I feel weak",
+        "I have cold and cough",
+        "I feel pain in my body",
+        "my nose is blocked",
+        "I can't sleep",
+        "I feel very tired"
+      ],
+      "responses": [
+        "I'm sorry to hear that. Can you tell me how long you've had it and how severe it is?",
+        "Got it. I'll try to give advice — but please tell me duration and severity."
+      ]
+    },
+    {
+      "tag": "ask_info",
+      "patterns": [
+        "what should I do",
+        "any advice",
+        "how do I feel better",
+        "what can help",
+        "how can I recover",
+        "should I see a doctor",
+        "tell me what to do",
+        "give me some guidance"
+      ],
+      "responses": [
+        "I can give some general tips. Can you tell me your symptom?",
+        "I'll try to guide you, but please let me know what you're experiencing."
+      ]
+    },
+    {
+      "tag": "symptom_duration",
+      "patterns": [
+        "for 2 days",
+        "since last night",
+        "for a week",
+        "from yesterday",
+        "for a few hours",
+        "it started today",
+        "it's been 3 days"
+      ],
+      "responses": [
+        "Thanks for sharing the duration. I'll use that to give better advice."
+      ]
+    },
+    {
+      "tag": "symptom_severity",
+      "patterns": [
+        "it's mild",
+        "it's moderate",
+        "it's severe",
+        "very painful",
+        "not too bad",
+        "extreme pain"
+      ],
+      "responses": [
+        "Got it. I'll note the severity.",
+        "Thanks, severity is important to suggest next steps."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [
+        "blah blah",
+        "xyz",
+        "nonsense words",
+        "???",
+        "idk what to say"
+      ],
+      "responses": [
+        "I didn't quite get that. Could you rephrase?",
+        "Sorry, I'm not sure I understood. Can you try again?"
+      ]
+    }
+  ]
+}

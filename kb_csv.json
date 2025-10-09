@@ -1,0 +1,2737 @@
+{
+  "version": "2.0",
+  "source": "CSV Medical Database",
+  "total_symptoms": 134,
+  "total_diseases": 41,
+  "symptoms": [
+    {
+      "name": "abdominal_pain",
+      "synonyms": [
+        "stomach pain",
+        "abdominal pain",
+        "abdominal_pain",
+        "stomach ache",
+        "soreness",
+        "hurt",
+        "tummy ache",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Alcoholic hepatitis and 7 other conditions. Abdominal Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1032,
+      "related_diseases": [
+        "Typhoid",
+        "Alcoholic hepatitis",
+        "Hepatitis D",
+        "hepatitis A",
+        "Hepatitis B"
+      ],
+      "display_name": "abdominal_pain"
+    },
+    {
+      "name": "malaise",
+      "synonyms": [
+        "malaise"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Hepatitis B and 4 other conditions. Malaise may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 702,
+      "related_diseases": [
+        "Chicken pox",
+        "Hepatitis B",
+        "Common Cold",
+        "Tuberculosis",
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "sinus_pressure",
+      "synonyms": [
+        "sinus pressure",
+        "sinus_pressure"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Sinus Pressure may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "anxiety",
+      "synonyms": [
+        "anxiety"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypoglycemia. Anxiety may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "weakness_of_one_body_side",
+      "synonyms": [
+        "weakness_of_one_body_side",
+        "weakness of one body side"
+      ],
+      "description": "This is a very common symptom that can be associated with Paralysis (brain hemorrhage). Weakness Of One Body Side may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Paralysis (brain hemorrhage)"
+      ]
+    },
+    {
+      "name": "fatigue",
+      "synonyms": [
+        "tiredness",
+        "weakness",
+        "fatigue",
+        "exhaustion"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Hepatitis D and 15 other conditions. Fatigue may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Ensure adequate rest and maintain a balanced diet. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1932,
+      "related_diseases": [
+        "Typhoid",
+        "Hepatitis D",
+        "Varicose veins",
+        "Chicken pox",
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "ulcers_on_tongue",
+      "synonyms": [
+        "ulcers_on_tongue",
+        "ulcers on tongue"
+      ],
+      "description": "This is a very common symptom that can be associated with GERD. Ulcers On Tongue may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "GERD"
+      ]
+    },
+    {
+      "name": "stomach_pain",
+      "synonyms": [
+        "belly pain",
+        "stomach pain",
+        "stomach ache",
+        "soreness",
+        "hurt",
+        "stomach_pain",
+        "tummy ache",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Drug Reaction, GERD. Stomach Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 222,
+      "related_diseases": [
+        "Drug Reaction",
+        "GERD"
+      ]
+    },
+    {
+      "name": "silver_like_dusting",
+      "synonyms": [
+        "silver_like_dusting",
+        "silver like dusting"
+      ],
+      "description": "This is a very common symptom that can be associated with Psoriasis. Silver Like Dusting may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Psoriasis"
+      ]
+    },
+    {
+      "name": "swelling_of_stomach",
+      "synonyms": [
+        "swelling_of_stomach",
+        "swelling of stomach"
+      ],
+      "description": "This is a very common symptom that can be associated with Alcoholic hepatitis. Swelling Of Stomach may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Alcoholic hepatitis"
+      ]
+    },
+    {
+      "name": "coma",
+      "synonyms": [
+        "coma"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis E. Coma may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hepatitis E"
+      ]
+    },
+    {
+      "name": "headache",
+      "synonyms": [
+        "headache"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Paralysis (brain hemorrhage) and 8 other conditions. Headache may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1134,
+      "related_diseases": [
+        "Typhoid",
+        "Paralysis (brain hemorrhage)",
+        "Chicken pox",
+        "Hypoglycemia",
+        "Hypertension "
+      ]
+    },
+    {
+      "name": "muscle_wasting",
+      "synonyms": [
+        "muscle_wasting",
+        "muscle wasting"
+      ],
+      "description": "This is a very common symptom that can be associated with AIDS. Muscle Wasting may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "AIDS"
+      ]
+    },
+    {
+      "name": "yellowish_skin",
+      "synonyms": [
+        "yellowish skin",
+        "yellowish_skin"
+      ],
+      "description": "This is a very common symptom that can be associated with Alcoholic hepatitis, Hepatitis D and 6 other conditions. Yellowish Skin may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 912,
+      "related_diseases": [
+        "Alcoholic hepatitis",
+        "Hepatitis D",
+        "hepatitis A",
+        "Hepatitis C",
+        "Chronic cholestasis"
+      ]
+    },
+    {
+      "name": "blister",
+      "synonyms": [
+        "blister"
+      ],
+      "description": "This is a very common symptom that can be associated with Impetigo. Blister may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Impetigo"
+      ]
+    },
+    {
+      "name": "movement_stiffness",
+      "synonyms": [
+        "movement stiffness",
+        "movement_stiffness"
+      ],
+      "description": "This is a very common symptom that can be associated with Arthritis. Movement Stiffness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Arthritis"
+      ]
+    },
+    {
+      "name": "lack_of_concentration",
+      "synonyms": [
+        "lack of concentration",
+        "lack_of_concentration"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypertension . Lack Of Concentration may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypertension "
+      ]
+    },
+    {
+      "name": "breathlessness",
+      "synonyms": [
+        "difficulty breathing",
+        "breathlessness",
+        "shortness of breath",
+        "hard to breathe"
+      ],
+      "description": "This is a very common symptom that can be associated with Heart attack, Tuberculosis and 2 other conditions. Breathlessness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 450,
+      "related_diseases": [
+        "Heart attack",
+        "Tuberculosis",
+        "Bronchial Asthma",
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "inflammatory_nails",
+      "synonyms": [
+        "inflammatory_nails",
+        "inflammatory nails"
+      ],
+      "description": "This is a very common symptom that can be associated with Psoriasis. Inflammatory Nails may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Psoriasis"
+      ]
+    },
+    {
+      "name": "irregular_sugar_level",
+      "synonyms": [
+        "irregular sugar level",
+        "irregular_sugar_level"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes . Irregular Sugar Level may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Diabetes "
+      ]
+    },
+    {
+      "name": "irritability",
+      "synonyms": [
+        "irritability"
+      ],
+      "description": "This is a very common symptom that can be associated with Hyperthyroidism, Hypoglycemia and 2 other conditions. Irritability may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 474,
+      "related_diseases": [
+        "Hyperthyroidism",
+        "Hypoglycemia",
+        "Hypothyroidism",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "puffy_face_and_eyes",
+      "synonyms": [
+        "puffy face and eyes",
+        "puffy_face_and_eyes"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Puffy Face And Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "brittle_nails",
+      "synonyms": [
+        "brittle_nails",
+        "brittle nails"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Brittle Nails may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "increased_appetite",
+      "synonyms": [
+        "increased_appetite",
+        "increased appetite"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes . Increased Appetite may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Diabetes "
+      ]
+    },
+    {
+      "name": "fast_heart_rate",
+      "synonyms": [
+        "fast heart rate",
+        "fast_heart_rate"
+      ],
+      "description": "This is a very common symptom that can be associated with Hyperthyroidism, Pneumonia. Fast Heart Rate may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 234,
+      "related_diseases": [
+        "Hyperthyroidism",
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "continuous_feel_of_urine",
+      "synonyms": [
+        "continuous_feel_of_urine",
+        "continuous feel of urine"
+      ],
+      "description": "This is a very common symptom that can be associated with Urinary tract infection. Continuous Feel Of Urine may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Urinary tract infection"
+      ]
+    },
+    {
+      "name": "slurred_speech",
+      "synonyms": [
+        "slurred_speech",
+        "slurred speech"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypoglycemia. Slurred Speech may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "mild_fever",
+      "synonyms": [
+        "low fever",
+        "fever",
+        "slight fever",
+        "temperature",
+        "feverish",
+        "hot",
+        "mild fever",
+        "mild_fever"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Tuberculosis and 1 other conditions. Mild Fever may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Stay hydrated, rest, and monitor your temperature. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 354,
+      "related_diseases": [
+        "Chicken pox",
+        "Tuberculosis",
+        "hepatitis A"
+      ]
+    },
+    {
+      "name": "skin_peeling",
+      "synonyms": [
+        "skin_peeling",
+        "skin peeling"
+      ],
+      "description": "This is a very common symptom that can be associated with Psoriasis. Skin Peeling may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Psoriasis"
+      ]
+    },
+    {
+      "name": "swelled_lymph_nodes",
+      "synonyms": [
+        "swelled_lymph_nodes",
+        "swelled lymph nodes"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Common Cold and 1 other conditions. Swelled Lymph Nodes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 348,
+      "related_diseases": [
+        "Chicken pox",
+        "Common Cold",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "name": "loss_of_balance",
+      "synonyms": [
+        "loss of balance",
+        "loss_of_balance"
+      ],
+      "description": "This is a very common symptom that can be associated with Cervical spondylosis, (vertigo) Paroymsal  Positional Vertigo and 1 other conditions. Loss Of Balance may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 342,
+      "related_diseases": [
+        "Cervical spondylosis",
+        "(vertigo) Paroymsal  Positional Vertigo",
+        "Hypertension "
+      ]
+    },
+    {
+      "name": "scurring",
+      "synonyms": [
+        "scurring"
+      ],
+      "description": "This is a very common symptom that can be associated with Acne. Scurring may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Acne"
+      ]
+    },
+    {
+      "name": "dizziness",
+      "synonyms": [
+        "dizziness"
+      ],
+      "description": "This is a very common symptom that can be associated with Cervical spondylosis, Hypothyroidism and 1 other conditions. Dizziness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 336,
+      "related_diseases": [
+        "Cervical spondylosis",
+        "Hypothyroidism",
+        "Hypertension "
+      ]
+    },
+    {
+      "name": "blood_in_sputum",
+      "synonyms": [
+        "blood_in_sputum",
+        "blood in sputum"
+      ],
+      "description": "This is a very common symptom that can be associated with Tuberculosis. Blood In Sputum may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Tuberculosis"
+      ]
+    },
+    {
+      "name": "stomach_bleeding",
+      "synonyms": [
+        "stomach_bleeding",
+        "stomach bleeding"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis E. Stomach Bleeding may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hepatitis E"
+      ]
+    },
+    {
+      "name": "stiff_neck",
+      "synonyms": [
+        "stiff_neck",
+        "stiff neck"
+      ],
+      "description": "This is a very common symptom that can be associated with Arthritis, Migraine. Stiff Neck may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Arthritis",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "back_pain",
+      "synonyms": [
+        "soreness",
+        "hurt",
+        "back_pain",
+        "ache",
+        "back pain"
+      ],
+      "description": "This is a very common symptom that can be associated with Cervical spondylosis, Dengue. Back Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Cervical spondylosis",
+        "Dengue"
+      ]
+    },
+    {
+      "name": "weight_gain",
+      "synonyms": [
+        "weight gain",
+        "weight_gain"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Weight Gain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "swollen_blood_vessels",
+      "synonyms": [
+        "swollen blood vessels",
+        "swollen_blood_vessels"
+      ],
+      "description": "This is a very common symptom that can be associated with Varicose veins. Swollen Blood Vessels may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "dehydration",
+      "synonyms": [
+        "dehydration"
+      ],
+      "description": "This is a very common symptom that can be associated with Gastroenteritis. Dehydration may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Gastroenteritis"
+      ]
+    },
+    {
+      "name": "toxic_look_(typhos)",
+      "synonyms": [
+        "toxic_look_(typhos)",
+        "toxic look (typhos)"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid. Toxic Look (Typhos) may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Typhoid"
+      ]
+    },
+    {
+      "name": "abnormal_menstruation",
+      "synonyms": [
+        "abnormal_menstruation",
+        "abnormal menstruation"
+      ],
+      "description": "This is a very common symptom that can be associated with Hyperthyroidism, Hypothyroidism. Abnormal Menstruation may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 240,
+      "related_diseases": [
+        "Hyperthyroidism",
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "runny_nose",
+      "synonyms": [
+        "runny_nose",
+        "runny nose"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Runny Nose may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "indigestion",
+      "synonyms": [
+        "indigestion"
+      ],
+      "description": "This is a very common symptom that can be associated with Peptic ulcer diseae, Migraine. Indigestion may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 222,
+      "related_diseases": [
+        "Peptic ulcer diseae",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "blurred_and_distorted_vision",
+      "synonyms": [
+        "eye problems",
+        "blurred and distorted vision",
+        "blurry vision",
+        "sight problems",
+        "blurred_and_distorted_vision",
+        "eyesight",
+        "unclear vision"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes , Hypoglycemia and 1 other conditions. Blurred And Distorted Vision may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 342,
+      "related_diseases": [
+        "Diabetes ",
+        "Hypoglycemia",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "cold_hands_and_feets",
+      "synonyms": [
+        "cold_hands_and_feets",
+        "cold hands and feets"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Cold Hands And Feets may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "swollen_extremeties",
+      "synonyms": [
+        "swollen_extremeties",
+        "swollen extremeties"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Swollen Extremeties may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "weight_loss",
+      "synonyms": [
+        "weight_loss",
+        "weight loss"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes , Jaundice and 2 other conditions. Weight Loss may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 456,
+      "related_diseases": [
+        "Diabetes ",
+        "Jaundice",
+        "Tuberculosis",
+        "Hyperthyroidism"
+      ]
+    },
+    {
+      "name": "sweating",
+      "synonyms": [
+        "sweating"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypoglycemia, Heart attack and 4 other conditions. Sweating may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 678,
+      "related_diseases": [
+        "Hypoglycemia",
+        "Heart attack",
+        "Hyperthyroidism",
+        "Malaria",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "name": "pain_behind_the_eyes",
+      "synonyms": [
+        "pain behind the eyes",
+        "soreness",
+        "hurt",
+        "pain_behind_the_eyes",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Dengue. Pain Behind The Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Dengue"
+      ]
+    },
+    {
+      "name": "sunken_eyes",
+      "synonyms": [
+        "sunken_eyes",
+        "sunken eyes"
+      ],
+      "description": "This is a very common symptom that can be associated with Gastroenteritis. Sunken Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Gastroenteritis"
+      ]
+    },
+    {
+      "name": "red_sore_around_nose",
+      "synonyms": [
+        "red_sore_around_nose",
+        "red sore around nose"
+      ],
+      "description": "This is a very common symptom that can be associated with Impetigo. Red Sore Around Nose may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Impetigo"
+      ]
+    },
+    {
+      "name": "pus_filled_pimples",
+      "synonyms": [
+        "pus_filled_pimples",
+        "pus filled pimples"
+      ],
+      "description": "This is a very common symptom that can be associated with Acne. Pus Filled Pimples may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Acne"
+      ]
+    },
+    {
+      "name": "swollen_legs",
+      "synonyms": [
+        "swollen legs",
+        "swollen_legs"
+      ],
+      "description": "This is a very common symptom that can be associated with Varicose veins. Swollen Legs may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "internal_itching",
+      "synonyms": [
+        "itch",
+        "internal_itching",
+        "internal itching",
+        "irritation",
+        "scratching"
+      ],
+      "description": "This is a very common symptom that can be associated with Peptic ulcer diseae. Internal Itching may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Avoid scratching and keep the area clean and dry. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Peptic ulcer diseae"
+      ]
+    },
+    {
+      "name": "high_fever",
+      "synonyms": [
+        "high fever",
+        "fever",
+        "high_fever",
+        "burning fever",
+        "temperature",
+        "feverish",
+        "hot",
+        "high temperature"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Chicken pox and 10 other conditions. High Fever may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Stay hydrated, rest, and monitor your temperature. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1362,
+      "related_diseases": [
+        "Typhoid",
+        "Chicken pox",
+        "Impetigo",
+        "Hepatitis E",
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "foul_smell_of urine",
+      "synonyms": [
+        "foul_smell_of urine",
+        "foul smell of urine"
+      ],
+      "description": "This is a very common symptom that can be associated with Urinary tract infection. Foul Smell Of Urine may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 102,
+      "related_diseases": [
+        "Urinary tract infection"
+      ]
+    },
+    {
+      "name": "joint_pain",
+      "synonyms": [
+        "joint ache",
+        "joint pain",
+        "hurt",
+        "joint_pain",
+        "soreness",
+        "arthritis",
+        "stiff joints",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Osteoarthristis, Hepatitis D and 4 other conditions. Joint Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 684,
+      "related_diseases": [
+        "Osteoarthristis",
+        "Hepatitis D",
+        "hepatitis A",
+        "Psoriasis",
+        "Hepatitis E"
+      ]
+    },
+    {
+      "name": "prominent_veins_on_calf",
+      "synonyms": [
+        "prominent veins on calf",
+        "prominent_veins_on_calf"
+      ],
+      "description": "This is a very common symptom that can be associated with Varicose veins. Prominent Veins On Calf may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "diarrhoea",
+      "synonyms": [
+        "diarrhoea",
+        "loose stools",
+        "watery stools",
+        "diarrhea"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Gastroenteritis and 3 other conditions. Diarrhoea may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 564,
+      "related_diseases": [
+        "Typhoid",
+        "Gastroenteritis",
+        "hepatitis A",
+        "Hyperthyroidism",
+        "Malaria"
+      ]
+    },
+    {
+      "name": "vomiting",
+      "synonyms": [
+        "being sick",
+        "puking",
+        "vomiting",
+        "throwing up"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Alcoholic hepatitis and 15 other conditions. Vomiting may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1914,
+      "related_diseases": [
+        "Typhoid",
+        "Alcoholic hepatitis",
+        "Paralysis (brain hemorrhage)",
+        "Hepatitis D",
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "yellow_urine",
+      "synonyms": [
+        "yellow_urine",
+        "yellow urine"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis B. Yellow Urine may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hepatitis B"
+      ]
+    },
+    {
+      "name": "distention_of_abdomen",
+      "synonyms": [
+        "distention of abdomen",
+        "distention_of_abdomen"
+      ],
+      "description": "This is a very common symptom that can be associated with Alcoholic hepatitis. Distention Of Abdomen may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Alcoholic hepatitis"
+      ]
+    },
+    {
+      "name": "muscle_pain",
+      "synonyms": [
+        "muscle_pain",
+        "muscle ache",
+        "myalgia",
+        "soreness",
+        "hurt",
+        "muscle soreness",
+        "muscle pain",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Malaria, Common Cold and 2 other conditions. Muscle Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 474,
+      "related_diseases": [
+        "Malaria",
+        "Common Cold",
+        "hepatitis A",
+        "Dengue"
+      ]
+    },
+    {
+      "name": "patches_in_throat",
+      "synonyms": [
+        "patches in throat",
+        "patches_in_throat"
+      ],
+      "description": "This is a very common symptom that can be associated with AIDS. Patches In Throat may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "AIDS"
+      ]
+    },
+    {
+      "name": "belly_pain",
+      "synonyms": [
+        "belly pain",
+        "soreness",
+        "belly_pain",
+        "hurt",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid. Belly Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Typhoid"
+      ]
+    },
+    {
+      "name": "bruising",
+      "synonyms": [
+        "bruising"
+      ],
+      "description": "This is a very common symptom that can be associated with Varicose veins. Bruising may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "restlessness",
+      "synonyms": [
+        "restlessness"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes , Hyperthyroidism. Restlessness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Diabetes ",
+        "Hyperthyroidism"
+      ]
+    },
+    {
+      "name": "altered_sensorium",
+      "synonyms": [
+        "altered_sensorium",
+        "altered sensorium"
+      ],
+      "description": "This is a very common symptom that can be associated with Paralysis (brain hemorrhage). Altered Sensorium may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Paralysis (brain hemorrhage)"
+      ]
+    },
+    {
+      "name": "depression",
+      "synonyms": [
+        "depression"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism, Migraine. Depression may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 234,
+      "related_diseases": [
+        "Hypothyroidism",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "phlegm",
+      "synonyms": [
+        "phlegm"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold, Tuberculosis and 1 other conditions. Phlegm may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 354,
+      "related_diseases": [
+        "Common Cold",
+        "Tuberculosis",
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "knee_pain",
+      "synonyms": [
+        "knee_pain",
+        "soreness",
+        "hurt",
+        "knee pain",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Osteoarthristis. Knee Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Osteoarthristis"
+      ]
+    },
+    {
+      "name": "perform excercies",
+      "synonyms": [
+        "perform excercies"
+      ],
+      "description": "This symptom that can be associated with wellness. Perform Excercies may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1,
+      "related_diseases": [
+        "wellness"
+      ]
+    },
+    {
+      "name": "obesity",
+      "synonyms": [
+        "obesity"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes , Varicose veins. Obesity may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Diabetes ",
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "dischromic _patches",
+      "synonyms": [
+        "dischromic  patches",
+        "dischromic _patches"
+      ],
+      "description": "This is a very common symptom that can be associated with Fungal infection. Dischromic  Patches may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Fungal infection"
+      ]
+    },
+    {
+      "name": "lethargy",
+      "synonyms": [
+        "lethargy"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Diabetes  and 2 other conditions. Lethargy may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 456,
+      "related_diseases": [
+        "Chicken pox",
+        "Diabetes ",
+        "Hypothyroidism",
+        "Hepatitis B"
+      ]
+    },
+    {
+      "name": "small_dents_in_nails",
+      "synonyms": [
+        "small_dents_in_nails",
+        "small dents in nails"
+      ],
+      "description": "This is a very common symptom that can be associated with Psoriasis. Small Dents In Nails may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Psoriasis"
+      ]
+    },
+    {
+      "name": "unsteadiness",
+      "synonyms": [
+        "unsteadiness"
+      ],
+      "description": "This is a very common symptom that can be associated with (vertigo) Paroymsal  Positional Vertigo. Unsteadiness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "(vertigo) Paroymsal  Positional Vertigo"
+      ]
+    },
+    {
+      "name": "bloody_stool",
+      "synonyms": [
+        "bloody stool",
+        "bloody_stool"
+      ],
+      "description": "This is a very common symptom that can be associated with Dimorphic hemmorhoids(piles). Bloody Stool may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Dimorphic hemmorhoids(piles)"
+      ]
+    },
+    {
+      "name": "receiving_unsterile_injections",
+      "synonyms": [
+        "receiving_unsterile_injections",
+        "receiving unsterile injections"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis B. Receiving Unsterile Injections may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hepatitis B"
+      ]
+    },
+    {
+      "name": "excessive_hunger",
+      "synonyms": [
+        "excessive_hunger",
+        "excessive hunger"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes , Hyperthyroidism and 2 other conditions. Excessive Hunger may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 462,
+      "related_diseases": [
+        "Diabetes ",
+        "Hyperthyroidism",
+        "Hypoglycemia",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "bladder_discomfort",
+      "synonyms": [
+        "bladder_discomfort",
+        "bladder discomfort"
+      ],
+      "description": "This is a very common symptom that can be associated with Urinary tract infection. Bladder Discomfort may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Urinary tract infection"
+      ]
+    },
+    {
+      "name": "mood_swings",
+      "synonyms": [
+        "mood swings",
+        "mood_swings"
+      ],
+      "description": "This is a very common symptom that can be associated with Hyperthyroidism, Hypothyroidism. Mood Swings may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Hyperthyroidism",
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "constipation",
+      "synonyms": [
+        "constipation"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Dimorphic hemmorhoids(piles). Constipation may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Typhoid",
+        "Dimorphic hemmorhoids(piles)"
+      ]
+    },
+    {
+      "name": "yellowing_of_eyes",
+      "synonyms": [
+        "yellowing of eyes",
+        "yellowing_of_eyes"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis D, hepatitis A and 5 other conditions. Yellowing Of Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 816,
+      "related_diseases": [
+        "Hepatitis D",
+        "hepatitis A",
+        "Hepatitis C",
+        "Chronic cholestasis",
+        "Hepatitis B"
+      ]
+    },
+    {
+      "name": "fluid_overload",
+      "synonyms": [
+        "fluid overload",
+        "fluid_overload"
+      ],
+      "description": "This is a very common symptom that can be associated with Alcoholic hepatitis. Fluid Overload may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Alcoholic hepatitis"
+      ]
+    },
+    {
+      "name": "rusty_sputum",
+      "synonyms": [
+        "rusty sputum",
+        "rusty_sputum"
+      ],
+      "description": "This is a very common symptom that can be associated with Pneumonia. Rusty Sputum may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "chest_pain",
+      "synonyms": [
+        "chest_pain",
+        "chest pain",
+        "chest discomfort",
+        "soreness",
+        "hurt",
+        "ache",
+        "chest ache"
+      ],
+      "description": "This is a very common symptom that can be associated with GERD, Hypertension  and 4 other conditions. Chest Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 696,
+      "related_diseases": [
+        "GERD",
+        "Hypertension ",
+        "Heart attack",
+        "Common Cold",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "name": "passage_of_gases",
+      "synonyms": [
+        "passage of gases",
+        "passage_of_gases"
+      ],
+      "description": "This is a very common symptom that can be associated with Peptic ulcer diseae. Passage Of Gases may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Peptic ulcer diseae"
+      ]
+    },
+    {
+      "name": "family_history",
+      "synonyms": [
+        "family history",
+        "family_history"
+      ],
+      "description": "This is a very common symptom that can be associated with Bronchial Asthma, Hepatitis C. Family History may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Bronchial Asthma",
+        "Hepatitis C"
+      ]
+    },
+    {
+      "name": "spotting_ urination",
+      "synonyms": [
+        "spotting  urination",
+        "spotting_ urination"
+      ],
+      "description": "This is a very common symptom that can be associated with Drug Reaction. Spotting  Urination may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Drug Reaction"
+      ]
+    },
+    {
+      "name": "pain_during_bowel_movements",
+      "synonyms": [
+        "pain during bowel movements",
+        "pain_during_bowel_movements",
+        "soreness",
+        "hurt",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Dimorphic hemmorhoids(piles). Pain During Bowel Movements may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Dimorphic hemmorhoids(piles)"
+      ]
+    },
+    {
+      "name": "chills",
+      "synonyms": [
+        "chills"
+      ],
+      "description": "This is a very common symptom that can be associated with Allergy, Typhoid and 5 other conditions. Chills may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 798,
+      "related_diseases": [
+        "Allergy",
+        "Typhoid",
+        "Common Cold",
+        "Malaria",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "name": "enlarged_thyroid",
+      "synonyms": [
+        "enlarged thyroid",
+        "enlarged_thyroid"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypothyroidism. Enlarged Thyroid may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "name": "drying_and_tingling_lips",
+      "synonyms": [
+        "drying_and_tingling_lips",
+        "drying and tingling lips"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypoglycemia. Drying And Tingling Lips may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "swelling_joints",
+      "synonyms": [
+        "swelling_joints",
+        "swelling joints"
+      ],
+      "description": "This is a very common symptom that can be associated with Arthritis, Osteoarthristis. Swelling Joints may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Arthritis",
+        "Osteoarthristis"
+      ]
+    },
+    {
+      "name": "congestion",
+      "synonyms": [
+        "congestion"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Congestion may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "drink water",
+      "synonyms": [
+        "drink water"
+      ],
+      "description": "This symptom that can be associated with wellness. Drink Water may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1,
+      "related_diseases": [
+        "wellness"
+      ]
+    },
+    {
+      "name": "throat_irritation",
+      "synonyms": [
+        "throat_irritation",
+        "throat irritation"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Throat Irritation may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "muscle_weakness",
+      "synonyms": [
+        "muscle_weakness",
+        "muscle weakness"
+      ],
+      "description": "This is a very common symptom that can be associated with Hyperthyroidism, Arthritis. Muscle Weakness may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 234,
+      "related_diseases": [
+        "Hyperthyroidism",
+        "Arthritis"
+      ]
+    },
+    {
+      "name": "palpitations",
+      "synonyms": [
+        "palpitations"
+      ],
+      "description": "This is a very common symptom that can be associated with Hypoglycemia. Palpitations may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "name": "spinning_movements",
+      "synonyms": [
+        "spinning movements",
+        "spinning_movements"
+      ],
+      "description": "This is a very common symptom that can be associated with (vertigo) Paroymsal  Positional Vertigo. Spinning Movements may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "(vertigo) Paroymsal  Positional Vertigo"
+      ]
+    },
+    {
+      "name": "continuous_sneezing",
+      "synonyms": [
+        "continuous_sneezing",
+        "continuous sneezing"
+      ],
+      "description": "This is a very common symptom that can be associated with Allergy, Common Cold. Continuous Sneezing may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 222,
+      "related_diseases": [
+        "Allergy",
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "visual_disturbances",
+      "synonyms": [
+        "visual disturbances",
+        "visual_disturbances"
+      ],
+      "description": "This is a very common symptom that can be associated with Migraine. Visual Disturbances may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Migraine"
+      ]
+    },
+    {
+      "name": "cough",
+      "synonyms": [
+        "coughing",
+        "cough",
+        "throat clearing"
+      ],
+      "description": "This is a very common symptom that can be associated with GERD, Common Cold and 3 other conditions. Cough may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Stay hydrated and avoid irritants. Consider warm liquids with honey. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 564,
+      "related_diseases": [
+        "GERD",
+        "Common Cold",
+        "Tuberculosis",
+        "Bronchial Asthma",
+        "Pneumonia"
+      ]
+    },
+    {
+      "name": "yellow_crust_ooze",
+      "synonyms": [
+        "yellow_crust_ooze",
+        "yellow crust ooze"
+      ],
+      "description": "This is a very common symptom that can be associated with Impetigo. Yellow Crust Ooze may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Impetigo"
+      ]
+    },
+    {
+      "name": "loss_of_appetite",
+      "synonyms": [
+        "loss_of_appetite",
+        "loss of appetite"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis D, Chicken pox and 8 other conditions. Loss Of Appetite may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1152,
+      "related_diseases": [
+        "Hepatitis D",
+        "Chicken pox",
+        "hepatitis A",
+        "Hepatitis B",
+        "Chronic cholestasis"
+      ]
+    },
+    {
+      "name": "painful_walking",
+      "synonyms": [
+        "painful_walking",
+        "soreness",
+        "hurt",
+        "painful walking",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Arthritis, Osteoarthristis. Painful Walking may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Arthritis",
+        "Osteoarthristis"
+      ]
+    },
+    {
+      "name": "nausea",
+      "synonyms": [
+        "sick feeling",
+        "queasy",
+        "nausea",
+        "feeling sick"
+      ],
+      "description": "This is a very common symptom that can be associated with Typhoid, Hepatitis D and 8 other conditions. Nausea may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Eat light, bland foods and stay hydrated with small sips of water. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1146,
+      "related_diseases": [
+        "Typhoid",
+        "Hepatitis D",
+        "Hypoglycemia",
+        "hepatitis A",
+        "Hepatitis C"
+      ]
+    },
+    {
+      "name": "pain_in_anal_region",
+      "synonyms": [
+        "pain in anal region",
+        "pain_in_anal_region",
+        "soreness",
+        "hurt",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Dimorphic hemmorhoids(piles). Pain In Anal Region may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Dimorphic hemmorhoids(piles)"
+      ]
+    },
+    {
+      "name": "shivering",
+      "synonyms": [
+        "shivering"
+      ],
+      "description": "This is a very common symptom that can be associated with Allergy. Shivering may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Allergy"
+      ]
+    },
+    {
+      "name": "neck_pain",
+      "synonyms": [
+        "neck_pain",
+        "soreness",
+        "hurt",
+        "ache",
+        "neck pain"
+      ],
+      "description": "This is a very common symptom that can be associated with Cervical spondylosis, Osteoarthristis. Neck Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 228,
+      "related_diseases": [
+        "Cervical spondylosis",
+        "Osteoarthristis"
+      ]
+    },
+    {
+      "name": "watering_from_eyes",
+      "synonyms": [
+        "watering from eyes",
+        "watering_from_eyes"
+      ],
+      "description": "This is a very common symptom that can be associated with Allergy. Watering From Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Allergy"
+      ]
+    },
+    {
+      "name": "history_of_alcohol_consumption",
+      "synonyms": [
+        "history_of_alcohol_consumption",
+        "history of alcohol consumption"
+      ],
+      "description": "This is a very common symptom that can be associated with Alcoholic hepatitis. History Of Alcohol Consumption may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Alcoholic hepatitis"
+      ]
+    },
+    {
+      "name": "",
+      "synonyms": [],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Drug Reaction and 5 other conditions. Skin Rash may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 786,
+      "related_diseases": [
+        "Chicken pox",
+        "Drug Reaction",
+        "Psoriasis",
+        "Impetigo",
+        "Acne"
+      ],
+      "display_name": ""
+    },
+    {
+      "name": "nodal_skin_eruptions",
+      "synonyms": [
+        "nodal_skin_eruptions",
+        "nodal skin eruptions"
+      ],
+      "description": "This is a very common symptom that can be associated with Fungal infection. Nodal Skin Eruptions may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Fungal infection"
+      ]
+    },
+    {
+      "name": "acidity",
+      "synonyms": [
+        "acidity"
+      ],
+      "description": "This is a very common symptom that can be associated with GERD, Migraine. Acidity may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 222,
+      "related_diseases": [
+        "GERD",
+        "Migraine"
+      ]
+    },
+    {
+      "name": "cramps",
+      "synonyms": [
+        "cramps"
+      ],
+      "description": "This is a very common symptom that can be associated with Varicose veins. Cramps may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Varicose veins"
+      ]
+    },
+    {
+      "name": "hip_joint_pain",
+      "synonyms": [
+        "joint ache",
+        "hip joint pain",
+        "hip_joint_pain",
+        "soreness",
+        "hurt",
+        "arthritis",
+        "stiff joints",
+        "ache"
+      ],
+      "description": "This is a very common symptom that can be associated with Osteoarthristis. Hip Joint Pain may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Rest the affected area and avoid strenuous activities. Apply ice or heat as appropriate. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Osteoarthristis"
+      ]
+    },
+    {
+      "name": "eat healty",
+      "synonyms": [
+        "eat healty"
+      ],
+      "description": "This symptom that can be associated with wellness. Eat Healty may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 1,
+      "related_diseases": [
+        "wellness"
+      ]
+    },
+    {
+      "name": "irritation_in_anus",
+      "synonyms": [
+        "irritation in anus",
+        "irritation_in_anus"
+      ],
+      "description": "This is a very common symptom that can be associated with Dimorphic hemmorhoids(piles). Irritation In Anus may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Dimorphic hemmorhoids(piles)"
+      ]
+    },
+    {
+      "name": "red_spots_over_body",
+      "synonyms": [
+        "red_spots_over_body",
+        "red spots over body"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Dengue. Red Spots Over Body may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 234,
+      "related_diseases": [
+        "Chicken pox",
+        "Dengue"
+      ]
+    },
+    {
+      "name": "mucoid_sputum",
+      "synonyms": [
+        "mucoid_sputum",
+        "mucoid sputum"
+      ],
+      "description": "This is a very common symptom that can be associated with Bronchial Asthma. Mucoid Sputum may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Bronchial Asthma"
+      ]
+    },
+    {
+      "name": "weakness_in_limbs",
+      "synonyms": [
+        "weakness_in_limbs",
+        "weakness in limbs"
+      ],
+      "description": "This is a very common symptom that can be associated with Cervical spondylosis. Weakness In Limbs may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Cervical spondylosis"
+      ]
+    },
+    {
+      "name": "acute_liver_failure",
+      "synonyms": [
+        "acute liver failure",
+        "acute_liver_failure"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis E. Acute Liver Failure may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 114,
+      "related_diseases": [
+        "Hepatitis E"
+      ]
+    },
+    {
+      "name": "receiving_blood_transfusion",
+      "synonyms": [
+        "receiving_blood_transfusion",
+        "receiving blood transfusion"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis B. Receiving Blood Transfusion may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Hepatitis B"
+      ]
+    },
+    {
+      "name": "burning_micturition",
+      "synonyms": [
+        "burning micturition",
+        "burning_micturition"
+      ],
+      "description": "This is a very common symptom that can be associated with Urinary tract infection, Drug Reaction. Burning Micturition may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 216,
+      "related_diseases": [
+        "Urinary tract infection",
+        "Drug Reaction"
+      ]
+    },
+    {
+      "name": "blackheads",
+      "synonyms": [
+        "blackheads"
+      ],
+      "description": "This is a very common symptom that can be associated with Acne. Blackheads may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "Acne"
+      ]
+    },
+    {
+      "name": "loss_of_smell",
+      "synonyms": [
+        "loss of smell",
+        "loss_of_smell"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Loss Of Smell may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "redness_of_eyes",
+      "synonyms": [
+        "redness_of_eyes",
+        "redness of eyes"
+      ],
+      "description": "This is a very common symptom that can be associated with Common Cold. Redness Of Eyes may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Common Cold"
+      ]
+    },
+    {
+      "name": "extra_marital_contacts",
+      "synonyms": [
+        "extra marital contacts",
+        "extra_marital_contacts"
+      ],
+      "description": "This is a very common symptom that can be associated with AIDS. Extra Marital Contacts may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 108,
+      "related_diseases": [
+        "AIDS"
+      ]
+    },
+    {
+      "name": "dark_urine",
+      "synonyms": [
+        "dark urine",
+        "dark_urine"
+      ],
+      "description": "This is a very common symptom that can be associated with Hepatitis D, hepatitis A and 3 other conditions. Dark Urine may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 570,
+      "related_diseases": [
+        "Hepatitis D",
+        "hepatitis A",
+        "Hepatitis B",
+        "Hepatitis E",
+        "Jaundice"
+      ]
+    },
+    {
+      "name": "itching",
+      "synonyms": [
+        "itch",
+        "irritation",
+        "itching",
+        "scratching"
+      ],
+      "description": "This is a very common symptom that can be associated with Chicken pox, Drug Reaction and 4 other conditions. Itching may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Avoid scratching and keep the area clean and dry. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 678,
+      "related_diseases": [
+        "Chicken pox",
+        "Drug Reaction",
+        "Hepatitis B",
+        "Chronic cholestasis",
+        "Jaundice"
+      ]
+    },
+    {
+      "name": "polyuria",
+      "synonyms": [
+        "polyuria",
+        "urinating often",
+        "peeing frequently",
+        "frequent urination"
+      ],
+      "description": "This is a very common symptom that can be associated with Diabetes . Polyuria may indicate various underlying health conditions and should be evaluated properly.",
+      "advice": "Monitor the symptom and note any changes or worsening. If symptoms persist, worsen, or you experience severe discomfort, consult a healthcare professional promptly.",
+      "frequency": 120,
+      "related_diseases": [
+        "Diabetes "
+      ]
+    },
+    {
+      "name": "mash",
+      "display_name": "mash",
+      "synonyms": [
+        "green eyes"
+      ],
+      "description": "red eyes",
+      "category": "Neurological",
+      "frequency": 0,
+      "related_diseases": []
+    },
+    {
+      "name": "tomato",
+      "display_name": "tomato",
+      "synonyms": [
+        "red eyes"
+      ],
+      "description": "hi",
+      "category": "General",
+      "frequency": 0,
+      "related_diseases": []
+    }
+  ],
+  "diseases": [
+    {
+      "name": "Drug Reaction",
+      "description": "An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.",
+      "symptoms": [
+        "itching",
+        "skin_rash",
+        "stomach_pain",
+        "burning_micturition",
+        "spotting_ urination"
+      ],
+      "precautions": [
+        "stop irritation",
+        "consult nearest hospital",
+        "stop taking drug",
+        "follow up"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "description": "An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.",
+      "symptoms": [
+        "chills",
+        "vomiting",
+        "high_fever",
+        "sweating",
+        "headache",
+        "nausea",
+        "diarrhoea",
+        "muscle_pain"
+      ],
+      "precautions": [
+        "Consult nearest hospital",
+        "avoid oily food",
+        "avoid non veg food",
+        "keep mosquitos out"
+      ]
+    },
+    {
+      "name": "Allergy",
+      "description": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.",
+      "symptoms": [
+        "continuous_sneezing",
+        "shivering",
+        "chills",
+        "watering_from_eyes"
+      ],
+      "precautions": [
+        "apply calamine",
+        "cover area with bandage",
+        "use ice to compress itching"
+      ]
+    },
+    {
+      "name": "Hypothyroidism",
+      "description": "Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.",
+      "symptoms": [
+        "fatigue",
+        "weight_gain",
+        "cold_hands_and_feets",
+        "mood_swings",
+        "lethargy",
+        "dizziness",
+        "puffy_face_and_eyes",
+        "enlarged_thyroid",
+        "brittle_nails",
+        "swollen_extremeties",
+        "depression",
+        "irritability",
+        "abnormal_menstruation"
+      ],
+      "precautions": [
+        "reduce stress",
+        "exercise",
+        "eat healthy",
+        "get proper sleep"
+      ]
+    },
+    {
+      "name": "Psoriasis",
+      "description": "Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.",
+      "symptoms": [
+        "skin_rash",
+        "joint_pain",
+        "skin_peeling",
+        "silver_like_dusting",
+        "small_dents_in_nails",
+        "inflammatory_nails"
+      ],
+      "precautions": [
+        "wash hands with warm soapy water",
+        "stop bleeding using pressure",
+        "consult doctor",
+        "salt baths"
+      ]
+    },
+    {
+      "name": "GERD",
+      "description": "Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.",
+      "symptoms": [
+        "stomach_pain",
+        "acidity",
+        "ulcers_on_tongue",
+        "vomiting",
+        "cough",
+        "chest_pain"
+      ],
+      "precautions": [
+        "avoid fatty spicy food",
+        "avoid lying down after eating",
+        "maintain healthy weight",
+        "exercise"
+      ]
+    },
+    {
+      "name": "Chronic cholestasis",
+      "description": "Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases",
+      "symptoms": [
+        "itching",
+        "vomiting",
+        "yellowish_skin",
+        "nausea",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "yellowing_of_eyes"
+      ],
+      "precautions": [
+        "cold baths",
+        "anti itch medicine",
+        "consult doctor",
+        "eat healthy"
+      ]
+    },
+    {
+      "name": "hepatitis A",
+      "description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.",
+      "symptoms": [
+        "joint_pain",
+        "vomiting",
+        "yellowish_skin",
+        "dark_urine",
+        "nausea",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "diarrhoea",
+        "mild_fever",
+        "yellowing_of_eyes",
+        "muscle_pain"
+      ],
+      "precautions": [
+        "Consult nearest hospital",
+        "wash hands through",
+        "avoid fatty spicy food",
+        "medication"
+      ]
+    },
+    {
+      "name": "Osteoarthristis",
+      "description": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.",
+      "symptoms": [
+        "joint_pain",
+        "neck_pain",
+        "knee_pain",
+        "hip_joint_pain",
+        "swelling_joints",
+        "painful_walking"
+      ],
+      "precautions": [
+        "acetaminophen",
+        "consult nearest hospital",
+        "follow up",
+        "salt baths"
+      ]
+    },
+    {
+      "name": "(vertigo) Paroymsal  Positional Vertigo",
+      "description": "Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.",
+      "symptoms": [
+        "vomiting",
+        "headache",
+        "nausea",
+        "spinning_movements",
+        "loss_of_balance",
+        "unsteadiness"
+      ],
+      "precautions": [
+        "lie down",
+        "avoid sudden change in body",
+        "avoid abrupt head movment",
+        "relax"
+      ]
+    },
+    {
+      "name": "Hypoglycemia",
+      "description": " Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.",
+      "symptoms": [
+        "vomiting",
+        "fatigue",
+        "anxiety",
+        "sweating",
+        "headache",
+        "nausea",
+        "blurred_and_distorted_vision",
+        "excessive_hunger",
+        "drying_and_tingling_lips",
+        "slurred_speech",
+        "irritability",
+        "palpitations"
+      ],
+      "precautions": [
+        "lie down on side",
+        "check in pulse",
+        "drink sugary drinks",
+        "consult doctor"
+      ]
+    },
+    {
+      "name": "Acne",
+      "description": "Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.",
+      "symptoms": [
+        "skin_rash",
+        "pus_filled_pimples",
+        "blackheads",
+        "scurring"
+      ],
+      "precautions": [
+        "bath twice",
+        "avoid fatty spicy food",
+        "drink plenty of water",
+        "avoid too many products"
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "description": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.",
+      "symptoms": [],
+      "precautions": []
+    },
+    {
+      "name": "Impetigo",
+      "description": "Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.",
+      "symptoms": [
+        "skin_rash",
+        "high_fever",
+        "blister",
+        "red_sore_around_nose",
+        "yellow_crust_ooze"
+      ],
+      "precautions": [
+        "soak affected area in warm water",
+        "use antibiotics",
+        "remove scabs with wet compressed cloth",
+        "consult doctor"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "description": "Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.",
+      "symptoms": [],
+      "precautions": []
+    },
+    {
+      "name": "Peptic ulcer diseae",
+      "description": "Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.",
+      "symptoms": [
+        "vomiting",
+        "indigestion",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "passage_of_gases",
+        "internal_itching"
+      ],
+      "precautions": [
+        "avoid fatty spicy food",
+        "consume probiotic food",
+        "eliminate milk",
+        "limit alcohol"
+      ]
+    },
+    {
+      "name": "Dimorphic hemorrhoids(piles)",
+      "description": "Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .",
+      "symptoms": [],
+      "precautions": []
+    },
+    {
+      "name": "Common Cold",
+      "description": "The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.",
+      "symptoms": [
+        "continuous_sneezing",
+        "chills",
+        "fatigue",
+        "cough",
+        "high_fever",
+        "headache",
+        "swelled_lymph_nodes",
+        "malaise",
+        "phlegm",
+        "throat_irritation",
+        "redness_of_eyes",
+        "sinus_pressure",
+        "runny_nose",
+        "congestion",
+        "chest_pain",
+        "loss_of_smell",
+        "muscle_pain"
+      ],
+      "precautions": [
+        "drink vitamin c rich drinks",
+        "take vapour",
+        "avoid cold food",
+        "keep fever in check"
+      ]
+    },
+    {
+      "name": "Chicken pox",
+      "description": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.",
+      "symptoms": [
+        "itching",
+        "skin_rash",
+        "fatigue",
+        "lethargy",
+        "high_fever",
+        "headache",
+        "loss_of_appetite",
+        "mild_fever",
+        "swelled_lymph_nodes",
+        "malaise",
+        "red_spots_over_body"
+      ],
+      "precautions": [
+        "use neem in bathing ",
+        "consume neem leaves",
+        "take vaccine",
+        "avoid public places"
+      ]
+    },
+    {
+      "name": "Cervical spondylosis",
+      "description": "Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).",
+      "symptoms": [
+        "back_pain",
+        "weakness_in_limbs",
+        "neck_pain",
+        "dizziness",
+        "loss_of_balance"
+      ],
+      "precautions": [
+        "use heating pad or cold pack",
+        "exercise",
+        "take otc pain reliver",
+        "consult doctor"
+      ]
+    },
+    {
+      "name": "Hyperthyroidism",
+      "description": "Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.",
+      "symptoms": [
+        "fatigue",
+        "mood_swings",
+        "weight_loss",
+        "restlessness",
+        "sweating",
+        "diarrhoea",
+        "fast_heart_rate",
+        "excessive_hunger",
+        "muscle_weakness",
+        "irritability",
+        "abnormal_menstruation"
+      ],
+      "precautions": [
+        "eat healthy",
+        "massage",
+        "use lemon balm",
+        "take radioactive iodine treatment"
+      ]
+    },
+    {
+      "name": "Urinary tract infection",
+      "description": "Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.",
+      "symptoms": [
+        "burning_micturition",
+        "bladder_discomfort",
+        "foul_smell_of urine",
+        "continuous_feel_of_urine"
+      ],
+      "precautions": [
+        "drink plenty of water",
+        "increase vitamin c intake",
+        "drink cranberry juice",
+        "take probiotics"
+      ]
+    },
+    {
+      "name": "Varicose veins",
+      "description": "A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.",
+      "symptoms": [
+        "fatigue",
+        "cramps",
+        "bruising",
+        "obesity",
+        "swollen_legs",
+        "swollen_blood_vessels",
+        "prominent_veins_on_calf"
+      ],
+      "precautions": [
+        "lie down flat and raise the leg high",
+        "use oinments",
+        "use vein compression",
+        "dont stand still for long"
+      ]
+    },
+    {
+      "name": "AIDS",
+      "description": "Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.",
+      "symptoms": [
+        "muscle_wasting",
+        "patches_in_throat",
+        "high_fever",
+        "extra_marital_contacts"
+      ],
+      "precautions": [
+        "avoid open cuts",
+        "wear ppe if possible",
+        "consult doctor",
+        "follow up"
+      ]
+    },
+    {
+      "name": "Paralysis (brain hemorrhage)",
+      "description": "Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.",
+      "symptoms": [
+        "vomiting",
+        "headache",
+        "weakness_of_one_body_side",
+        "altered_sensorium"
+      ],
+      "precautions": [
+        "massage",
+        "eat healthy",
+        "exercise",
+        "consult doctor"
+      ]
+    },
+    {
+      "name": "Typhoid",
+      "description": "An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.",
+      "symptoms": [
+        "chills",
+        "vomiting",
+        "fatigue",
+        "high_fever",
+        "headache",
+        "nausea",
+        "constipation",
+        "abdominal_pain",
+        "diarrhoea",
+        "toxic_look_(typhos)",
+        "belly_pain"
+      ],
+      "precautions": [
+        "eat high calorie vegitables",
+        "antiboitic therapy",
+        "consult doctor",
+        "medication"
+      ]
+    },
+    {
+      "name": "Hepatitis B",
+      "description": "Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.",
+      "symptoms": [
+        "itching",
+        "fatigue",
+        "lethargy",
+        "yellowish_skin",
+        "dark_urine",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "yellow_urine",
+        "yellowing_of_eyes",
+        "malaise",
+        "receiving_blood_transfusion",
+        "receiving_unsterile_injections"
+      ],
+      "precautions": [
+        "consult nearest hospital",
+        "vaccination",
+        "eat healthy",
+        "medication"
+      ]
+    },
+    {
+      "name": "Fungal infection",
+      "description": "In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.",
+      "symptoms": [
+        "itching",
+        "skin_rash",
+        "nodal_skin_eruptions",
+        "dischromic _patches"
+      ],
+      "precautions": [
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+      ]
+    },
+    {
+      "name": "Hepatitis C",
+      "description": "Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.",
+      "symptoms": [
+        "fatigue",
+        "yellowish_skin",
+        "nausea",
+        "loss_of_appetite",
+        "yellowing_of_eyes",
+        "family_history"
+      ],
+      "precautions": [
+        "Consult nearest hospital",
+        "vaccination",
+        "eat healthy",
+        "medication"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "description": "A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.",
+      "symptoms": [
+        "acidity",
+        "indigestion",
+        "headache",
+        "blurred_and_distorted_vision",
+        "excessive_hunger",
+        "stiff_neck",
+        "depression",
+        "irritability",
+        "visual_disturbances"
+      ],
+      "precautions": [
+        "meditation",
+        "reduce stress",
+        "use poloroid glasses in sun",
+        "consult doctor"
+      ]
+    },
+    {
+      "name": "Bronchial Asthma",
+      "description": "Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.",
+      "symptoms": [
+        "fatigue",
+        "cough",
+        "high_fever",
+        "breathlessness",
+        "family_history",
+        "mucoid_sputum"
+      ],
+      "precautions": [
+        "switch to loose cloothing",
+        "take deep breaths",
+        "get away from trigger",
+        "seek help"
+      ]
+    },
+    {
+      "name": "Alcoholic hepatitis",
+      "description": "Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol",
+      "symptoms": [
+        "vomiting",
+        "yellowish_skin",
+        "abdominal_pain",
+        "swelling_of_stomach",
+        "distention_of_abdomen",
+        "history_of_alcohol_consumption",
+        "fluid_overload"
+      ],
+      "precautions": [
+        "stop alcohol consumption",
+        "consult doctor",
+        "medication",
+        "follow up"
+      ]
+    },
+    {
+      "name": "Jaundice",
+      "description": "Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the \"morbus regius\" (the regal disease) in the belief that only the touch of a king could cure it",
+      "symptoms": [
+        "itching",
+        "vomiting",
+        "fatigue",
+        "weight_loss",
+        "high_fever",
+        "yellowish_skin",
+        "dark_urine",
+        "abdominal_pain"
+      ],
+      "precautions": [
+        "drink plenty of water",
+        "consume milk thistle",
+        "eat fruits and high fiberous food",
+        "medication"
+      ]
+    },
+    {
+      "name": "Hepatitis E",
+      "description": "A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.",
+      "symptoms": [
+        "joint_pain",
+        "vomiting",
+        "fatigue",
+        "high_fever",
+        "yellowish_skin",
+        "dark_urine",
+        "nausea",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "yellowing_of_eyes",
+        "acute_liver_failure",
+        "coma",
+        "stomach_bleeding"
+      ],
+      "precautions": [
+        "stop alcohol consumption",
+        "rest",
+        "consult doctor",
+        "medication"
+      ]
+    },
+    {
+      "name": "Dengue",
+      "description": "an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever.",
+      "symptoms": [
+        "skin_rash",
+        "chills",
+        "joint_pain",
+        "vomiting",
+        "fatigue",
+        "high_fever",
+        "headache",
+        "nausea",
+        "loss_of_appetite",
+        "pain_behind_the_eyes",
+        "back_pain",
+        "malaise",
+        "muscle_pain",
+        "red_spots_over_body"
+      ],
+      "precautions": [
+        "drink papaya leaf juice",
+        "avoid fatty spicy food",
+        "keep mosquitos away",
+        "keep hydrated"
+      ]
+    },
+    {
+      "name": "Hepatitis D",
+      "description": "Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).",
+      "symptoms": [
+        "joint_pain",
+        "vomiting",
+        "fatigue",
+        "yellowish_skin",
+        "dark_urine",
+        "nausea",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "yellowing_of_eyes"
+      ],
+      "precautions": [
+        "consult doctor",
+        "medication",
+        "eat healthy",
+        "follow up"
+      ]
+    },
+    {
+      "name": "Heart attack",
+      "description": "The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.",
+      "symptoms": [
+        "vomiting",
+        "breathlessness",
+        "sweating",
+        "chest_pain"
+      ],
+      "precautions": [
+        "call ambulance",
+        "chew or swallow asprin",
+        "keep calm"
+      ]
+    },
+    {
+      "name": "Pneumonia",
+      "description": "Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.",
+      "symptoms": [
+        "chills",
+        "fatigue",
+        "cough",
+        "high_fever",
+        "breathlessness",
+        "sweating",
+        "malaise",
+        "phlegm",
+        "chest_pain",
+        "fast_heart_rate",
+        "rusty_sputum"
+      ],
+      "precautions": [
+        "consult doctor",
+        "medication",
+        "rest",
+        "follow up"
+      ]
+    },
+    {
+      "name": "Arthritis",
+      "description": "Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.",
+      "symptoms": [
+        "muscle_weakness",
+        "stiff_neck",
+        "swelling_joints",
+        "movement_stiffness",
+        "painful_walking"
+      ],
+      "precautions": [
+        "exercise",
+        "use hot and cold therapy",
+        "try acupuncture",
+        "massage"
+      ]
+    },
+    {
+      "name": "Gastroenteritis",
+      "description": "Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .",
+      "symptoms": [
+        "vomiting",
+        "sunken_eyes",
+        "dehydration",
+        "diarrhoea"
+      ],
+      "precautions": [
+        "stop eating solid food for while",
+        "try taking small sips of water",
+        "rest",
+        "ease back into eating"
+      ]
+    },
+    {
+      "name": "Tuberculosis",
+      "description": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.",
+      "symptoms": [
+        "chills",
+        "vomiting",
+        "fatigue",
+        "weight_loss",
+        "cough",
+        "high_fever",
+        "breathlessness",
+        "sweating",
+        "loss_of_appetite",
+        "mild_fever",
+        "yellowing_of_eyes",
+        "swelled_lymph_nodes",
+        "malaise",
+        "phlegm",
+        "chest_pain",
+        "blood_in_sputum"
+      ],
+      "precautions": [
+        "cover mouth",
+        "consult doctor",
+        "medication",
+        "rest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "training_date": "2025-10-09T18:35:13.250632",
+  "test_accuracy": 0.5384615384615384,
+  "n_classes": 8,
+  "classes": [
+    "ask_info",
+    "fallback",
+    "goodbye",
+    "greet",
+    "report_symptom",
+    "symptom_duration",
+    "symptom_severity",
+    "thanks"
+  ],
+  "vectorizer_features": 5000,
+  "model_files": {
+    "vectorizer": "models/vectorizer.joblib",
+    "classifier": "models/classifier.joblib",
+    "label_encoder": "models/label_encoder.joblib"
+  }
+}
